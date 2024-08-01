@@ -1,7 +1,7 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Smallest base image
-FROM alpine:edge
+FROM alpine:3.20
 
 LABEL maintainer="Tomas Nevar <tomas@lisenet.com>"
 
